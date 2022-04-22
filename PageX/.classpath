@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="drivers/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="drivers/commons-io-2.11.0 2/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="drivers/commons-io-2.11.0 2/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="drivers/commons-io-2.11.0 2/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="drivers/commons-io-2.11.0 2/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="drivers/commons-io-2.11.0 2/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="drivers/Graphs"/>
+	<classpathentry kind="lib" path="drivers/Memory Management"/>
+	<classpathentry kind="lib" path="drivers/Search Trees"/>
+	<classpathentry kind="lib" path="drivers/Text Processing"/>
+	<classpathentry kind="lib" path="drivers/Algorithm Design"/>
+	<classpathentry kind="lib" path="src/javalin-4.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
